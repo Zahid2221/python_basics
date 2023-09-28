@@ -22,3 +22,8 @@ def addition(**kwargs):
 
 addition(name='zahid',address='Bangalore',father='Khalid')
 
+def display(**kwargs):
+    for k,v in kwargs.items():
+        print(f" The {k} is {v} .")
+
+display(name='Vn2', floor=2,technology='Python')
