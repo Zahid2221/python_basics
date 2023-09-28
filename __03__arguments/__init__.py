@@ -16,5 +16,9 @@ addition(12,14,16,18,20)
 
 # Now using keyword arguments
 
+def addition(**kwargs):
+    for key,value in kwargs.items():
+        print(f"The {key} is {value} ")
 
+addition(name='zahid',address='Bangalore',father='Khalid')
 
