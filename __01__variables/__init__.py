@@ -10,3 +10,5 @@ class Student:
 obj=Student()
 obj.display()
 
+
+
