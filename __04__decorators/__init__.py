@@ -10,5 +10,7 @@ def my_decorator(func):
 @my_decorator    # This is decorator function
 def display():
     print('This is the decorator')
+    print('Hello')
+    print('How are u')
 
 display()
