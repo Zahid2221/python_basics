@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="177853b6-d995-49e4-a34f-e97e1004f3a9" name="Changes" comment="" />
+    <list default="true" id="177853b6-d995-49e4-a34f-e97e1004f3a9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/__09__Import_statements/__1__major/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__09__Import_statements/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +28,9 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2W0k4s9oJ2TqXhBowBh8h4Mybzf" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
